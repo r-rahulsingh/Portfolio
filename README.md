@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. Here, I have documented a summary of my projects and the self taught topics I have explored. 
 
-## 📚 Table of Contents
+## Table of Contents
 - [Data Science](#data-science)
 - [Database](#database)
 - [Basics](#basics)
@@ -26,7 +26,7 @@ Welcome to my portfolio. Here, I have documented a summary of my projects and th
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/r-rahulsingh/8-Week-SQL-Challenges/tree/main) | Data analysis, data cleaning, data transformation | This repository serves as the solution to the eight case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle diverse SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[8-Week SQL Challenges](https://github.com/r-rahulsingh/8-Week-SQL-Challenges/tree/main) | Data analysis, data cleaning, data transformation | This repository serves as the solution to the eight case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle diverse SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 
 ***
 
