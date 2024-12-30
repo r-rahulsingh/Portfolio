@@ -26,7 +26,7 @@ Welcome to my portfolio. Here, I have documented a summary of my projects and th
 
 | Project Description | Area of Analysis | Project Link | 
 |---|---|---|
-| This repository serves as the solution to the eight case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle diverse SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | Data analysis, data cleaning, data transformation | [8-Week SQL Challenges](https://github.com/r-rahulsingh/8-Week-SQL-Challenges/tree/main) | 
+| This project analyzes transactional data to uncover insights into customer behavior, spending habits, and menu preferences for Danny’s Diner. By addressing key business questions through SQL-based analysis, it helps improve customer experience, evaluate the loyalty program, and support strategic growth decisions | Data analysis, SQL, PostgreSQL | [DinerInsights](https://github.com/r-rahulsingh/DinerInsights) | 
 
 ***
 
