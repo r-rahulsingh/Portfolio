@@ -26,8 +26,8 @@ Welcome to my portfolio. Here, I have documented a summary of my projects and th
 
 | Project Description | Area of Analysis | Project Link | 
 |---|---|---|
-| This project analyzes transactional data to uncover insights into customer behavior, spending habits, and menu preferences for Danny’s Diner. By addressing key business questions through SQL-based analysis, it helps improve customer experience, evaluate the loyalty program, and support strategic growth decisions | Data analysis, SQL, PostgreSQL | [DinerInsights](https://github.com/r-rahulsingh/DinerInsights) | 
-
+| This project analyzes transactional data to uncover insights into customer behavior, spending habits, and menu preferences for Danny’s Diner. By addressing key business questions through SQL-based analysis, it helps improve customer experience, evaluate the loyalty program, and support strategic growth decisions | Data analysis, SQL, PostgreSQL | [DinerInsights](https://github.com/r-rahulsingh/DinerInsights) |
+| This project focuses on analyzing transactional data to reveal patterns in customer behavior, spending trends, and product preferences. Leveraging PostgreSQL to answer essential business queries, it delivers insights that support improving customer engagement, refining marketing strategies, and guiding strategic growth initiatives. | SQL, PostgreSQL, ER Diagram | [ClothingCoAnalysis](https://github.com/r-rahulsingh/ClothingFinancialAnalysis) |
 ***
 
 # Cheat Sheet 
